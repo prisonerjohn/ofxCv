@@ -13,6 +13,7 @@
 #include "ofRectangle.h"
 #include "ofTexture.h"
 #include "ofPixels.h"
+#include "ofMesh.h"
 #include "ofBaseTypes.h"
 #include "ofVideoPlayer.h"
 #include "ofVideoGrabber.h"
